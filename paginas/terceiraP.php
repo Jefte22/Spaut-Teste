@@ -31,10 +31,15 @@
                     <th class="contentID">2</th>
                     <th class="contentDesc">Tive dificuldade no Js</th>
                 </tr>
-                <tr>
+		<tr>
                     <th class="contentID">3</th>
+                    <th class="contentDesc">Cheguei a fazer 3 variações, mas não consegui fazer o Crud.</th>
+                </tr>
+                <tr>
+                    <th class="contentID">4</th>
                     <th class="contentDesc">Obrigado pela oportunidade!</th>
                 </tr>
+		
             </thead>
         </table>
 </body>
